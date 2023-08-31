@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="terms">
+        <br>1.People registering on this site must understand that the information provided by them
+            on the registration page is available to a person seeking for a particular blood group. </br>
+        <br>2.We do not sell contact details of potential donors to any third party or use it in any way for commercial gains.</br>
+        <br>3.We does not arrange for blood. We only provide relevant information about potential donors to those in need of blood.</br>
+        <br>4.We do not have a blood bank and is not affiliated to any blood bank.</br>
+        <br>5.We do not guarantee that a potential donor will agree to donate blood whenever called upon to do so.</br>
+        <br>6.It is entirely at the discretion of the individual whether or not to donate blood.</br>
+        <br>7.We does not claim that potential donors are free from any disease, ailment, or bodily conditions</br>
+        preventing them from donating blood at the time when they are contacted for blood donation.
+        <br>8.We urge you not to make false registrations if you do not seriously wish to donate blood. </br>
+        It is a matter of life and death for those in need of blood in an emergency or otherwise.
+        <br>9.We reserves right to inactivate member at any given time in case found wrong information given or misuse of service.</br>
+    </string>
+
+</resources>
